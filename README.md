@@ -9,8 +9,16 @@
 
 ### Android development
 
+#### Tutorial
+
 1. [Android development environment](https://www.jianshu.com/p/3031f5d758b4)
 2. [手把手教你用Android Studio写一个APP](https://www.bilibili.com/video/BV1MK411p7dp?p=11&vd_source=e40b89972687a71eab16be324bd7bd43)
+
+#### Documentation
+
+1. [Android developer platform](https://developer.android.com/)
+2. [Android ML development](https://developer.android.com/ml)
+3. [Firebase 移动端机器学习 SDK](https://firebase.google.com/docs/ml)
 
 ### Java
 
