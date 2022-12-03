@@ -29,6 +29,11 @@
 2. [Android ML development](https://developer.android.com/ml)
 3. [Firebase 移动端机器学习 SDK](https://firebase.google.com/docs/ml)
 
+#### Examples
+
+1. [Examples collection](https://github.com/android)
+2. [Android UI examples](https://github.com/wasabeef/awesome-android-ui)
+
 ### Java
 
 1. [Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
