@@ -42,6 +42,10 @@
 
 coming soon...
 
+## Other resources
+
+- [CS 自学指南](https://csdiy.wiki/)
+
 ## QA
 
 For **any** questions, feel free to open issues or contact [zhuwenq](https://github.com/Leonezz) directly.
