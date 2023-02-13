@@ -40,7 +40,7 @@
 
 ### NeRF
 
-coming soon...
+1. [NeRF studio](https://github.com/nerfstudio-project/nerfstudio)
 
 ## Other resources
 
