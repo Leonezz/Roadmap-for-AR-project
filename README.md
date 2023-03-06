@@ -41,6 +41,7 @@
 ### NeRF
 
 1. [NeRF studio](https://github.com/nerfstudio-project/nerfstudio)
+2. [NeRF paper list](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Other resources
 
